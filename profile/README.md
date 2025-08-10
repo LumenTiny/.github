@@ -1,8 +1,8 @@
 # 你好，这里是 LumenTiny！👋
 
 由 [Blueyo0](https://github.com/blueyo0) 临时搭建的技术小窝，当前折腾方向：  
-🔧 **LLM 智能体** (codegen / post-train)  
 🧩 **ML 系统** (inference optimization)  
+🔧 **LLM 智能体** (codegen / post-train)  
 🩺 **AI+医疗** (medical image / ai4sci / pet healthcare) 
 
 > 同好会客厅：  
